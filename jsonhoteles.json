@@ -1,0 +1,53 @@
+/*Hoteles*/
+[
+	{"id":"0",
+	"nom":"BorjaHoteles",
+	"estrelles":"2",
+	"mascotes":"si",
+	"correo":"borja@gmail.com",
+	"servicios":[
+				"gim",
+				"wifi",
+				"piscina",
+				"restaurante"
+				],
+	"habitaciones":"3",
+	"precio":"30",
+	"moneda":"Euro",
+	"idiomas":[
+				"Español"
+				]},
+
+
+		{"id":2,
+		"nom":"MollHoteles",
+	"estrelles":"3",
+	"mascotes":"si",
+	"correo":"moll@gmail.com",
+	"servicios":[
+				"wifi","piscina","restaurante"
+				],
+	"habitaciones":"4",
+	"precio":"60",
+	"moneda":"Euro",
+	"idiomas":[
+				"Ingles","Español","Aleman"
+				]},
+
+
+	{"id":3,
+	"nom":"LaPasta",
+	"estrelles":"5",
+	"mascotes":"no",
+	"correo":"lapasta@gmail.com",
+	"servicios":[
+				"gim","wifi","piscina","restaurante"
+				],
+	"habitaciones":"5",
+	"precio":"120",
+	"moneda":"Euro",
+	"idiomas":[
+				"Ingles","Japones","Chino","Aleman","Frances"
+				]}
+
+]
