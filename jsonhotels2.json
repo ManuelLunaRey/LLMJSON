@@ -1,0 +1,100 @@
+/*Hoteles*/
+[
+	
+	{"id":2,
+	"nom":"MollHoteles",
+	"estrelles":"3",
+	"mascotes":"si",
+	"correo":"moll@gmail.com",
+	"servicios":[
+				"gim",
+				"wifi",
+				"piscina",
+				"restaurante"
+				],
+	"habitaciones":[
+					{"id":01,
+					"servicios":
+						{"camasInd":2,
+						"duchas":1,
+						"wc":1,
+						"armario":1,
+						"ventilador":1,
+						"toallas":3,
+						"papel":3,
+						"tv":1},
+
+					"precios":
+						{"precioNetoTempInv":20,
+						"precioNetoTempVer":40,
+						"moneda":"euro",
+						"impuestos":"25%",
+						"comision":"15%",
+						"agregadores":[
+										{"nombre":"agregador1",
+										"comision":"10%"},
+
+										{"nombre":"agregador2",
+										"comision":"20%"}
+										]}
+					}
+					{"id":02,
+					"servicios":
+						{"camasDob":1,
+						"duchas":1,
+						"wc":1,
+						"armario":1,
+						"ventilador":2,
+						"toallas":4,
+						"papel":4,
+						"tv":1},
+
+					"precios":
+						{"precioNetoTempInv":30,
+						"precioNetoTempVer":60,
+						"moneda":"euro",
+						"impuestos":"25%",
+						"comision":"15%",
+						"agregadores":[
+										{"nombre":"agregador1",
+										"comision":"10%"},
+
+										{"nombre":"agregador2",
+										"comision":"20%"}
+										]}
+					}
+					{"id":03,
+					"servicios":
+						{"camasInd":1,
+						"duchas":1,
+						"wc":1,
+						"armario":1,
+						"ventilador":1,
+						"toallas":2,
+						"papel":2,
+						"tv":1},
+
+					"precios":
+						{"precioNetoTempInv":10,
+						"precioNetoTempVer":20,
+						"moneda":"euro",
+						"impuestos":"25%",
+						"comision":"15%",
+						"agregadores":[
+										{"nombre":"agregador1",
+										"comision":"10%"},
+
+										{"nombre":"agregador2",
+										"comision":"20%"}
+										]}
+					}
+					],
+
+	"idiomas":[
+				
+				"Ingles",
+				"Español",
+				"Aleman"
+				]}
+
+]
