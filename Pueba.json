@@ -14,6 +14,7 @@
                     {"id":1,
                     "servicios":
                         {"camasInd":1,
+                         "camasDob":0,
                         "duchas":1,
                         "wc":1,
                         "armario":1,
@@ -54,6 +55,7 @@
                     {"id":2,
                     "servicios":
                         {"camasInd":1,
+                         "camasDob":0,
                         "duchas":1,
                         "baños":1,
                         "wc":1,
@@ -96,6 +98,7 @@
                     {"id":3,
                     "servicios":
                         {"camasDob":1,
+                         "camasInd":0,
                         "duchas":1,
                         "wc":1,
                         "baño":1,
@@ -159,6 +162,7 @@
                     {"id":21,
                     "servicios":
                         {"camasInd":2,
+                         "camasDob":0,
                         "duchas":1,
                         "wc":1,
                         "armario":1,
@@ -199,6 +203,7 @@
                     {"id":22,
                     "servicios":
                         {"camasDob":1,
+                         "camasInd":0,
                         "duchas":1,
                         "wc":1,
                         "armario":1,
@@ -306,6 +311,7 @@
                     {"id":31,
                     "servicios":
                         {"camasInd":2,
+                         "camasDob":0,
                         "duchas":2,
                         "wc":1,
                         "baños":1,
@@ -350,6 +356,7 @@
                     {"id":32,
                     "servicios":
                         {"camasDob":1,
+                         "camasInd":0,
                         "duchas":2,
                         "baños":1,
                         "wc":2,
