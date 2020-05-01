@@ -21,7 +21,7 @@
                      "toallas":2,
                      "papel":2,
                      "tv":1,
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
@@ -63,7 +63,7 @@
                      "toallas":2,
                      "papel":2,
                      "tv":1,
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
@@ -105,7 +105,7 @@
                      "toallas":4,
                      "papel":4,
                      "tv":1,
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
@@ -166,7 +166,7 @@
                      "toallas":3,
                      "papel":3,
                      "tvPlasma":1,
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
@@ -206,7 +206,7 @@
                      "toallas":4,
                      "papel":4,
                      "tvPlasma":1,
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
@@ -250,7 +250,7 @@
                      "toallas":5,
                      "papel":10,
                      "tvPlasma":2,
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
@@ -319,7 +319,7 @@
                      "tvPlasma":1,
                      "productosHigiene":"TRUE",
                      "minibar":1,
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
@@ -363,7 +363,7 @@
                      "tvPlasma":1,
                      "minibar":1,
                      "productosHigiene":"TRUE",
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
@@ -409,7 +409,7 @@
                      "productosHigiene":"TRUE",
                      "terraza":1,
                      "balcones":2,
-
+                     "Descripcion":"Esta habitacion es flama",
                     "precios":
                         [
                           {
