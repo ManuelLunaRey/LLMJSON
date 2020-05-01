@@ -12,16 +12,15 @@
                 ],
     "habitaciones":[
                     {"id":1,
-                    "servicios":
-                        {"camasInd":1,
-                         "camasDob":0,
-                        "duchas":1,
-                        "wc":1,
-                        "armario":1,
-                        "ventilador":1,
-                        "toallas":2,
-                        "papel":2,
-                        "tv":1},
+                     "camasInd":1,
+                     "camasDob":0,
+                     "duchas":1,
+                     "wc":1,
+                     "armario":1,
+                     "ventilador":1,
+                     "toallas":2,
+                     "papel":2,
+                     "tv":1,
 
                     "precios":
                         [
@@ -53,18 +52,17 @@
                     },
 
                     {"id":2,
-                    "servicios":
-                        {"camasInd":1,
-                         "camasDob":0,
-                        "duchas":1,
-                        "baños":1,
-                        "wc":1,
-                        "armario":1,
-                        "ventilador":1,
-                        "estufa":1,
-                        "toallas":2,
-                        "papel":2,
-                        "tv":1},
+                     "camasInd":1,
+                     "camasDob":0,
+                     "duchas":1,
+                     "baños":1,
+                     "wc":1,
+                     "armario":1,
+                     "ventilador":1,
+                     "estufa":1,
+                     "toallas":2,
+                     "papel":2,
+                     "tv":1,
 
                     "precios":
                         [
@@ -96,18 +94,17 @@
                     },
 
                     {"id":3,
-                    "servicios":
-                        {"camasDob":1,
-                         "camasInd":0,
-                        "duchas":1,
-                        "wc":1,
-                        "baño":1,
-                        "armario":1,
-                        "ventilador":1,
-                        "estufa":1,
-                        "toallas":4,
-                        "papel":4,
-                        "tv":1},
+                     "camasDob":1,
+                     "camasInd":0,
+                     "duchas":1,
+                     "wc":1,
+                     "baño":1,
+                     "armario":1,
+                     "ventilador":1,
+                     "estufa":1,
+                     "toallas":4,
+                     "papel":4,
+                     "tv":1,
 
                     "precios":
                         [
@@ -160,16 +157,15 @@
                 ],
     "habitaciones":[
                     {"id":21,
-                    "servicios":
-                        {"camasInd":2,
-                         "camasDob":0,
-                        "duchas":1,
-                        "wc":1,
-                        "armario":1,
-                        "ventilador":1,
-                        "toallas":3,
-                        "papel":3,
-                        "tvPlasma":1},
+                     "camasInd":2,
+                     "camasDob":0,
+                     "duchas":1,
+                     "wc":1,
+                     "armario":1,
+                     "ventilador":1,
+                     "toallas":3,
+                     "papel":3,
+                     "tvPlasma":1,
 
                     "precios":
                         [
@@ -201,16 +197,15 @@
                     },
 
                     {"id":22,
-                    "servicios":
-                        {"camasDob":1,
-                         "camasInd":0,
-                        "duchas":1,
-                        "wc":1,
-                        "armario":1,
-                        "ventilador":2,
-                        "toallas":4,
-                        "papel":4,
-                        "tvPlasma":1},
+                     "camasDob":1,
+                     "camasInd":0,
+                     "duchas":1,
+                     "wc":1,
+                     "armario":1,
+                     "ventilador":2,
+                     "toallas":4,
+                     "papel":4,
+                     "tvPlasma":1,
 
                     "precios":
                         [
@@ -244,18 +239,17 @@
 
                     
                     {"id":23,
-                    "servicios":
-                        {"camasInd":2,
-                        "camasDob":1,
-                        "terraza":1,
-                        "duchas":2,
-                        "wc":2,
-                        "miniBar":1,
-                        "armario":2,
-                        "ventilador":4,
-                        "toallas":5,
-                        "papel":10,
-                        "tvPlasma":2},
+                     "camasInd":2,
+                     "camasDob":1,
+                     "terraza":1,
+                     "duchas":2,
+                     "wc":2,
+                     "miniBar":1,
+                     "armario":2,
+                     "ventilador":4,
+                     "toallas":5,
+                     "papel":10,
+                     "tvPlasma":2,
 
                     "precios":
                         [
@@ -305,24 +299,26 @@
     "mascotes":"no",
     "correo":"lapasta@gmail.com",
     "servicios":[
-                "gim","wifi","piscina","restaurante"
+                "gim",
+                "wifi",
+                "piscina",
+                "restaurante"
                 ],
     "habitaciones":[
                     {"id":31,
-                    "servicios":
-                        {"camasInd":2,
-                         "camasDob":0,
-                        "duchas":2,
-                        "wc":1,
-                        "baños":1,
-                        "armario":2,
-                        "ventilador":1,
-                        "estufa":1,
-                        "toallas":4,
-                        "papel":12,
-                        "tvPlasma":1,
-                        "productosHigiene":"TRUE",
-                        "minibar":1},
+                     "camasInd":2,
+                     "camasDob":0,
+                     "duchas":2,
+                     "wc":1,
+                     "baños":1,
+                     "armario":2,
+                     "ventilador":1,
+                     "estufa":1,
+                     "toallas":4,
+                     "papel":12,
+                     "tvPlasma":1,
+                     "productosHigiene":"TRUE",
+                     "minibar":1,
 
                     "precios":
                         [
@@ -354,20 +350,19 @@
                     },
 
                     {"id":32,
-                    "servicios":
-                        {"camasDob":1,
-                         "camasInd":0,
-                        "duchas":2,
-                        "baños":1,
-                        "wc":2,
-                        "armario":2,
-                        "ventilador":2,
-                        "estufa":2,
-                        "toallas":6,
-                        "papel":12,
-                        "tvPlasma":1,
-                        "minibar":1,
-                        "productosHigiene":"TRUE"},
+                     "camasDob":1,
+                     "camasInd":0,
+                     "duchas":2,
+                     "baños":1,
+                     "wc":2,
+                     "armario":2,
+                     "ventilador":2,
+                     "estufa":2,
+                     "toallas":6,
+                     "papel":12,
+                     "tvPlasma":1,
+                     "minibar":1,
+                     "productosHigiene":"TRUE",
 
                     "precios":
                         [
@@ -399,22 +394,21 @@
                     },
 
                     {"id":33,
-                    "servicios":
-                        {"camasDob":1,
-                        "camasInd":2,
-                        "duchas":4,
-                        "wc":2,
-                        "baño":2,
-                        "armario":4,
-                        "ventilador":3,
-                        "estufa":3,
-                        "toallas":10,
-                        "papel":24,
-                        "tvPlasma":2,
-                        "minibar":2,
-                        "productosHigiene":"TRUE",
-                        "terraza":1,
-                        "balcones":2},
+                     "camasDob":1,
+                     "camasInd":2,
+                     "duchas":4,
+                     "wc":2,
+                     "baño":2,
+                     "armario":4,
+                     "ventilador":3,
+                     "estufa":3,
+                     "toallas":10,
+                     "papel":24,
+                     "tvPlasma":2,
+                     "minibar":2,
+                     "productosHigiene":"TRUE",
+                     "terraza":1,
+                     "balcones":2,
 
                     "precios":
                         [
@@ -446,6 +440,10 @@
                     }
                     ],
     "idiomas":[
-                "Ingles","Japones","Chino","Aleman","Frances"
+                "Ingles",
+                "Japones",
+                "Chino",
+                "Aleman",
+                "Frances"
                 ]}
 ]
