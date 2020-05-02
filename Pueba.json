@@ -12,7 +12,7 @@
                 ],
     "habitaciones":[
                     {"id":1,
-                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/UnaCamaInd.jpg",
+                     "imagen":"\"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/UnaCamaInd.jpg\"",
                      "camasInd":1,
                      "camasDob":0,
                      "duchas":1,
