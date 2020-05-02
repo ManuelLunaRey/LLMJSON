@@ -138,11 +138,11 @@
                     ],
 
     "idiomas":{
-                "inglés":false,
-                "japonés":false,
+                "ingles":false,
+                "japones":false,
                 "chino":false,
-                "alemán":false,
-                "francés":false,
+                "aleman":false,
+                "frances":false,
                 "español":true
                }},
 
@@ -290,11 +290,11 @@
                     ],
 
     "idiomas":{
-                "inglés":true,
-                "japonés":false,
+                "ingles":true,
+                "japones":false,
                 "chino":false,
-                "alemán":true,
-                "francés":false,
+                "aleman":true,
+                "frances":false,
                 "español":true
                }},
 
@@ -451,11 +451,11 @@
                     }
                     ],
     "idiomas":{
-                "inglés":true,
-                "japonés":true,
+                "ingles":true,
+                "japones":true,
                 "chino":true,
-                "alemán":true,
-                "francés":true,
+                "aleman":true,
+                "frances":true,
                 "español":false
                } }
 ]
