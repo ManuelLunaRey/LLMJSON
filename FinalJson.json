@@ -1,0 +1,461 @@
+[
+    {"id":0,
+    "nom":"BorjaHoteles",
+    "estrelles":"2",
+    "mascotes":"si",
+    "correo":"borja@gmail.com",
+    "servicios":{"wifi":true,
+                "piscina":false,
+                "restaurante":true,
+                "gym":false},
+    "habitaciones":[
+                    {"id":1,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/UnaCamaInd.jpg",
+                     "camasInd":1,
+                     "camasDob":0,
+                     "duchas":1,
+                     "wc":1,
+                     "armario":1,
+                     "ventilador":1,
+                     "toallas":2,
+                     "papel":2,
+                     "tv":1,
+                     "Descripcion":"Habitación para estancias cortas. Con un baño y aclimantación.",
+                    "precios":
+                       [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 10.0,
+                            "impuesto": 13,
+                            "valorTotal": 11.3
+                          },
+                          {
+                            "agregador": "Agreg2",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 10.0,
+                            "impuesto": 16,
+                            "valorTotal": 11.6
+                          },
+                          {
+                            "agregador": "Agreg3",
+                            "tempAlta": true,
+                            "moneda": "€",
+                            "valorNeto": 10.0,
+                            "impuesto": 21,
+                            "valorTotal": 12.1
+                          }
+                        ]
+                    },
+
+                    {"id":2,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/UnaCamaInd.jpg",
+                     "camasInd":1,
+                     "camasDob":0,
+                     "duchas":1,
+                     "baños":1,
+                     "wc":1,
+                     "armario":1,
+                     "ventilador":1,
+                     "estufa":1,
+                     "toallas":2,
+                     "papel":2,
+                     "tv":1,
+                     "Descripcion":"Habitación para estancias más largas. Con televisión y una bañera incluidos.",
+                    "precios":
+                        [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 15.0,
+                            "impuesto": 13,
+                            "valorTotal": 16.95
+                          },
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 15.0,
+                            "impuesto": 16,
+                            "valorTotal": 17.4
+                          },
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 15.0,
+                            "impuesto": 21,
+                            "valorTotal": 18.15
+                          }
+                        ]
+                    },
+
+                    {"id":3,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/unaCamaDob.jpg",
+                     "camasDob":1,
+                     "camasInd":0,
+                     "duchas":1,
+                     "wc":1,
+                     "baño":1,
+                     "armario":1,
+                     "ventilador":1,
+                     "estufa":1,
+                     "toallas":4,
+                     "papel":4,
+                     "tv":1,
+                     "Descripcion":"Habitación para parejas. Con una cama doble, televisión, un armario, una bañera y ducha.",
+                    "precios":
+                        [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 17.0,
+                            "impuesto": 13,
+                            "valorTotal": 19.21
+                          },
+                          {
+                            "agregador": "Agreg2",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 17.0,
+                            "impuesto": 16,
+                            "valorTotal": 19.72
+                          },
+                          {
+                            "agregador": "Agreg3",
+                            "tempAlta": true,
+                            "moneda": "€",
+                            "valorNeto": 17.0,
+                            "impuesto": 21,
+                            "valorTotal": 20.57
+                          }
+                        ]
+                    }
+                    ],
+
+    "idiomas":{
+                "inglés":false,
+                "japonés":false,
+                "chino":false,
+                "alemán":false,
+                "francés":false,
+                "español":true
+               }},
+
+
+
+
+
+        {"id":2,
+    "nom":"MollHoteles",
+    "estrelles":"3",
+    "mascotes":"si",
+    "correo":"moll@gmail.com",
+    "servicios":{"wifi":true,
+                "piscina":true,
+                "restaurante":true,
+                "gym":false}
+                ,
+    "habitaciones":[
+                    {"id":21,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/DosCamasInd.jpeg",
+                     "camasInd":2,
+                     "camasDob":0,
+                     "duchas":1,
+                     "wc":1,
+                     "armario":1,
+                     "ventilador":1,
+                     "toallas":3,
+                     "papel":3,
+                     "tvPlasma":1,
+                     "Descripcion":"Habitación amplia con un baño y una televisión de plasma para disfrutar de la estancia.",
+                    "precios":
+                         [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 13.0,
+                            "impuesto": 13,
+                            "valorTotal": 14.69
+                          },
+                          {
+                            "agregador": "Agreg2",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 13.0,
+                            "impuesto": 16,
+                            "valorTotal": 15.8
+                          },
+                          {
+                            "agregador": "Agreg3",
+                            "tempAlta": true,
+                            "moneda": "€",
+                            "valorNeto": 13.0,
+                            "impuesto": 21,
+                            "valorTotal": 15.73
+                          }
+                        ]
+                    },
+
+                    {"id":22,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/unaCamaDob.jpg",
+                     "camasDob":1,
+                     "camasInd":0,
+                     "duchas":1,
+                     "wc":1,
+                     "armario":1,
+                     "ventilador":2,
+                     "toallas":4,
+                     "papel":4,
+                     "tvPlasma":1,
+                     "Descripcion":"Habitación amplia con un baño y una televisión de plasma para disfrutar de la estancia en pareja.",
+                    "precios":
+                         [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 15.0,
+                            "impuesto": 13,
+                            "valorTotal": 16.95
+                          },
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 15.0,
+                            "impuesto": 16,
+                            "valorTotal": 17.4
+                          },
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 15.0,
+                            "impuesto": 21,
+                            "valorTotal": 18.15
+                          }
+                        ]
+                    },
+
+
+                    
+                    {"id":23,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/DosCamasInd.jpeg",
+                     "camasInd":2,
+                     "camasDob":1,
+                     "terraza":1,
+                     "duchas":2,
+                     "wc":2,
+                     "miniBar":1,
+                     "armario":2,
+                     "ventilador":4,
+                     "toallas":5,
+                     "papel":10,
+                     "tvPlasma":2,
+                     "Descripcion":"Habitación amplia con un baño y una televisión de plasma para disfrutar de la estancia. Recomendada para un grupo de personas.",
+                    "precios":
+                         [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 20.0,
+                            "impuesto": 13,
+                            "valorTotal": 22.6
+                          },
+                          {
+                            "agregador": "Agreg2",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 20.0,
+                            "impuesto": 16,
+                            "valorTotal": 23.2
+                          },
+                          {
+                            "agregador": "Agreg3",
+                            "tempAlta": true,
+                            "moneda": "€",
+                            "valorNeto": 20.0,
+                            "impuesto": 21,
+                            "valorTotal": 24.2
+                          }
+                        ]
+                    }
+                    ],
+
+    "idiomas":{
+                "inglés":true,
+                "japonés":false,
+                "chino":false,
+                "alemán":true,
+                "francés":false,
+                "español":true
+               }},
+
+
+
+
+
+
+    {"id":3,
+    "nom":"LaPasta",
+    "estrelles":"5",
+    "mascotes":"no",
+    "correo":"lapasta@gmail.com",
+    "servicios":{"wifi":true,
+                "piscina":true,
+                "restaurante":true,
+                "gym":true},
+    "habitaciones":[
+                    {"id":31,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/DosCamasInd.jpeg",
+                     "camasInd":2,
+                     "camasDob":0,
+                     "duchas":2,
+                     "wc":1,
+                     "baños":1,
+                     "armario":2,
+                     "ventilador":1,
+                     "estufa":1,
+                     "toallas":4,
+                     "papel":12,
+                     "tvPlasma":1,
+                     "productosHigiene":"TRUE",
+                     "minibar":1,
+                     "Descripcion":"Habitación sencilla para disfrutar de la estancia y las noches. Recomendada por turistas. Incluye un minibar, tv de plasma, armarios y una estufa y ventilador para la aclimantación.",
+                    "precios":
+                        [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 30.0,
+                            "impuesto": 13,
+                            "valorTotal": 33.9
+                          },
+                          {
+                            "agregador": "Agreg2",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 30.0,
+                            "impuesto": 16,
+                            "valorTotal": 34.8
+                          },
+                          {
+                            "agregador": "Agreg3",
+                            "tempAlta": true,
+                            "moneda": "€",
+                            "valorNeto": 30.0,
+                            "impuesto": 21,
+                            "valorTotal": 36.3
+                          }
+                        ]
+                    },
+
+                    {"id":32,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/unaCamaDob.jpg",
+                     "camasDob":1,
+                     "camasInd":0,
+                     "duchas":1,
+                     "baños":1,
+                     "wc":1,
+                     "armario":2,
+                     "ventilador":2,
+                     "estufa":2,
+                     "toallas":6,
+                     "papel":12,
+                     "tvPlasma":1,
+                     "minibar":1,
+                     "productosHigiene":"TRUE",
+                     "Descripcion":"Habitación con una cama doble y todas las comodidades tanto si es invierno como verano. Un minibar incluido, telvisión de plasma, un baño con bañera y ducha, dos armarios, dos estufas y dos ventiladores.",
+                    "precios":
+                       [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 45.0,
+                            "impuesto": 13,
+                            "valorTotal": 50.85
+                          },
+                          {
+                            "agregador": "Agreg2",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 45.0,
+                            "impuesto": 16,
+                            "valorTotal": 52.2
+                          },
+                          {
+                            "agregador": "Agreg3",
+                            "tempAlta": true,
+                            "moneda": "€",
+                            "valorNeto": 45.0,
+                            "impuesto": 21,
+                            "valorTotal": 54.45
+                          }
+                        ]
+                    },
+
+                    {"id":33,
+                     "imagen":"https://raw.githubusercontent.com/ManuelLunaRey/LLMJSON/master/DosCamasInd.jpeg",
+                     "camasDob":1,
+                     "camasInd":2,
+                     "duchas":4,
+                     "wc":2,
+                     "baño":2,
+                     "armario":4,
+                     "ventilador":3,
+                     "estufa":3,
+                     "toallas":10,
+                     "papel":24,
+                     "tvPlasma":2,
+                     "minibar":2,
+                     "productosHigiene":"TRUE",
+                     "terraza":1,
+                     "balcones":2,
+                     "Descripcion":"Suite del hotel, con todos los añadidos y con máximo comfort. Extra grande y con terraza. Dos baños con dos duchas y una bañera cada uno, dos minibares, dos televisiones de plasma, productos de higiene, tres ventiladores y estufas.",
+                    "precios":
+                        [
+                          {
+                            "agregador": "Agreg1",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 60.0,
+                            "impuesto": 13,
+                            "valorTotal": 67.8
+                          },
+                          {
+                            "agregador": "Agreg2",
+                            "tempAlta": false,
+                            "moneda": "€",
+                            "valorNeto": 60.0,
+                            "impuesto": 16,
+                            "valorTotal": 69.6
+                          },
+                          {
+                            "agregador": "Agreg3",
+                            "tempAlta": true,
+                            "moneda": "€",
+                            "valorNeto": 60.0,
+                            "impuesto": 21,
+                            "valorTotal": 72.6
+                          }
+                        ]
+                    }
+                    ],
+    "idiomas":{
+                "inglés":true,
+                "japonés":true,
+                "chino":true,
+                "alemán":true,
+                "francés":true,
+                "español":false
+               } }
+]
